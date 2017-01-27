@@ -19,3 +19,30 @@ Release Date: Jan 26, 2017
 -   models
 
     -   all kinds of not much (NB)
+
+## *Version 1.1*
+
+Release Date: Jan 26, 2017
+
+## New Components
+
+-   Controllers
+
+    -   About.php (NB)
+
+    -   Gallery.php (NB)
+
+-   Views
+
+    -   about.php (NB)
+
+    -   gallery.php (NB)
+
+    -   welcome.php (NB)
+    
+## Updated Components
+
+-   Controllers
+
+    -   Welcome.php (NB)
+
