@@ -46,3 +46,37 @@ Release Date: Jan 26, 2017
 
     -   Welcome.php (NB)
 
+## *Version 1.3*
+
+Release Date: Jan 29, 2017
+
+## New Components
+
+-   Models
+
+    -   Images.php (NB)
+
+-   Views
+
+    -   _cell.php (NB)
+    
+## Updated Components
+
+-   Config
+
+    -   database.php (NB), git ignored, you must use your own db config file
+
+    -   autoload.php (NB)
+
+-   Controllers
+
+    -   Welcome.php (NB)
+
+    -   Gallery.php (NB)
+
+-   Views
+
+    -   gallery.php (NB)
+
+    -   welcome.php (NB)
+
